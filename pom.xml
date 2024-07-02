@@ -4,12 +4,12 @@
 
 	<groupId>eu.eureka-bpo.maven</groupId>
 	<artifactId>require-dependency-repository</artifactId>
-	<version>SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>require-dependency-repository - Maven Enforcer Rule to ensure artifact has received from specified repository</name>
 	<description>require-dependency-repository - Maven Enforcer Rule to ensure artifact has received from specified repository</description>
-	<url>https://github.com/eureka-bpo/require-dependency-repository</url>
+	<url>https://github.com/eureka-bpo/require-dependency-repository/tree/1.0.0</url>
 
 	<scm>
 		<url>https://github.com/eureka-bpo/require-dependency-repository.git</url>
