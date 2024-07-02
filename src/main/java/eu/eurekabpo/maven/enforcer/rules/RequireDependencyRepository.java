@@ -17,7 +17,7 @@ import org.apache.maven.enforcer.rule.api.EnforcerRuleError;
 import org.apache.maven.enforcer.rule.api.EnforcerRuleException;
 import org.apache.maven.execution.MavenSession;
 import org.apache.maven.project.MavenProject;
-import org.apache.maven.shared.utils.io.FileUtils;
+import org.codehaus.plexus.util.FileUtils;
 import org.eclipse.aether.RepositorySystem;
 import org.eclipse.aether.repository.RemoteRepository;
 import org.eclipse.aether.resolution.ArtifactRequest;
