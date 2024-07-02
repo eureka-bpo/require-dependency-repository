@@ -27,7 +27,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * Rule to validate a p2 artifacts to match the specified checksum.
+ * Rule to ensure artifact has received from specified repository.
  *
  */
 @Named("requireDependencyRepository")
