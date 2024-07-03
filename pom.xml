@@ -7,8 +7,8 @@
 	<version>SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>require-dependency-repository - Maven Enforcer Rule to ensure artifact has received from specified repository</name>
-	<description>require-dependency-repository - Maven Enforcer Rule to ensure artifact has received from specified repository</description>
+	<name>require-dependency-repository - Maven Enforcer Rule to ensure artifact has been received from specified repository</name>
+	<description>require-dependency-repository - Maven Enforcer Rule to ensure artifact has been received from specified repository</description>
 	<url>https://github.com/eureka-bpo/require-dependency-repository</url>
 
 	<scm>
