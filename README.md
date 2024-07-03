@@ -3,7 +3,7 @@
 This project presents custom rule requireDependencyRepository for [maven-enforcer-plugin](https://maven.apache.org/enforcer/maven-enforcer-plugin/index.html).
 
 #### Purpose
-requireDependencyRepository is meant to ensure that specified artifact is received from specified repository.
+requireDependencyRepository is meant to ensure that specified artifact has been received from specified repository.
 
 #### Minimum requirements
 - Java 8
